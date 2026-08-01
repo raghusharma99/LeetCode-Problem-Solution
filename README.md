@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0344-reverse-string) |
