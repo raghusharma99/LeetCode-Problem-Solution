@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
