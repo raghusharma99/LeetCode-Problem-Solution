@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 ## Pigeonhole Principle
