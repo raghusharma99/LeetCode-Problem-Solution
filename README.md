@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
