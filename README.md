@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
