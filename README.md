@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
