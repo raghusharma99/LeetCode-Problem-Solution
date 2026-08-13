@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0268-missing-number) |
