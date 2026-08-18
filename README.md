@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1095-find-in-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 | [3731-find-missing-elements](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
