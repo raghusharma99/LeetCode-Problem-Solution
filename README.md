@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
