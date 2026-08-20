@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1095-find-in-mountain-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 | [3731-find-missing-elements](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2845-count-of-interesting-subarrays](https://github.com/raghusharma99/LeetCode-Problem-Solution/tree/master/2845-count-of-interesting-subarrays) |
 ## Pigeonhole Principle
 |  |
